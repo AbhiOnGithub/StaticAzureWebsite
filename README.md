@@ -1,0 +1,2 @@
+# StaticAzureWebsite
+SRMS Azure Workshop
